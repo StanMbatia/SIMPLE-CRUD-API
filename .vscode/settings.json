@@ -1,0 +1,5 @@
+{
+    "git.ignoreLimitWarning": true,
+    "editor.fontSize": 10,
+    "npm-scripts.showStartNotification": false
+}
